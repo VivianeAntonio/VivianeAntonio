@@ -1,4 +1,4 @@
-# 🌈 Oi! Eu sou a Viviane Antonio da Silva! 🌈👋
+# Oi! Eu sou a Viviane Antonio da Silva! 🌈👋
 
 - 🚀 Atualmente estudando no Bootcamp Fullstack Developer
 - 📚 Também estou cursando Análise e Desenvolvimento de Sistemas
