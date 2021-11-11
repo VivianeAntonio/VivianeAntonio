@@ -1,16 +1,16 @@
-# Oi! Eu sou a Viviane Antonio da Silva! 🌈👋
+# Hi! My name is Viviane Antonio da Silva! 🌈👋
 
-- 🚀 Atualmente estudando no Bootcamp Fullstack Developer
-- 📚 Também estou cursando Análise e Desenvolvimento de Sistemas
-- 🤔 Estou procurando ajuda com projetos iniciais para melhorar meu portfólio.
-- ⚡ Curiosidades: Sou uma leitora compulsiva de livros de ficção, distopia, psicologia e filosofia, toco violão muito bem (rsrs), e estou sempre em busca de aumentar meu repertório cultural.
-- 🎬 Filme preferido: Orgulho e preconceito, Série preferida: Game of Thrones
+- 🚀 Currently studying at Bootcamp Fullstack Developer
+- 📚 I'm also studying Systems Analysis and Development
+- 🤔 I'm looking for help with initial projects to improve my portfolio.
+- ⚡ Curiosities: I am a compulsive reader of fiction, dystopia, psychology and philosophy books, I play the guitar very well (lol), and I am always looking to increase my cultural repertoire.
 ##
-<div align="center">
+<div align="lefth">
   <a href="https://github.com/VivianeAntonio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VivianeAntonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeAntonio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+##### Skills
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
