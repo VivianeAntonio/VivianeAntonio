@@ -1,7 +1,7 @@
 # Hi! My name is Viviane Antonio da Silva! 🌈👋
 
-- 🚀 Currently studying at Bootcamp Fullstack Developer
-- 📚 I'm also studying Systems Analysis and Development
+- 🚀 Currently studying at Bootcamp Fullstack Developer.
+- 📚 I'm also studying Systems Analysis and Development.
 - 🤔 I'm looking for help with initial projects to improve my portfolio.
 - ⚡ Curiosities: I am a compulsive reader of fiction, dystopia, psychology and philosophy books, I play the guitar very well (lol), and I am always looking to increase my cultural repertoire.
 ##
