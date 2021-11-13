@@ -5,9 +5,9 @@
 - 🤔 I'm looking for help with initial projects to improve my portfolio.
 - ⚡ Curiosities: I am a compulsive reader of fiction, dystopia, psychology and philosophy books, I play the guitar very well (lol), and I am always looking to increase my cultural repertoire.
 ##
-<div align="lefth">
+<div align="center">
   <a href="https://github.com/VivianeAntonio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeAntonio&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeAntonio&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##### Skills
