@@ -1,4 +1,4 @@
-# Hi! My name is Viviane Antonio da Silva! 👋 
+# Hi! I’m Viviane Antonio da Silva! 👋 
 
 - 🚀 Currently studying at Bootcamp Fullstack Developer.
 - 📚 I'm also studying Systems Analysis and Development.
