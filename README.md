@@ -1,4 +1,4 @@
-# Hi! My name is Viviane Antonio da Silva! 🌈👋
+# Hi! My name is Viviane Antonio da Silva! 👋 
 
 - 🚀 Currently studying at Bootcamp Fullstack Developer.
 - 📚 I'm also studying Systems Analysis and Development.
@@ -7,9 +7,9 @@
 ##
 <div align="center">
   <a href="https://github.com/VivianeAntonio">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VivianeAntonio&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VivianeAntonio&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/VivianeAntonio">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeAntonio&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeAntonio&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
   <div style="display: inline_block"><br>
